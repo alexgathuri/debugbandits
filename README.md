@@ -53,6 +53,10 @@ Joy Kiriba,
 
 # Contact information
 * Alex Gathuri: [Email](mailto:gathurialex4@gmail.com)
+* Daniel Musili: [Email](mailto:danielmusili72@gmail.com)
+* Wanjiru Kinyara: [Email](mailto:wanjirukinyara@gmail.com)
+* Joy Kiriba: [Email](mailto:joykiriba@gmail.com)
+* Raphael Blaize: [Email](mailto:blaize433@gmail.com)
 
 
 

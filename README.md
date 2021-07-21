@@ -24,12 +24,18 @@ Dataset: [Source Link](https://www.kaggle.com/adityakadiwal/water-potability)
     *  Dropping outliers
 
 # Author(s) information
-Wanjiru Kinyara,
-Daniel Musili,
-Alex Gathuri,
-Raphael Mukui,
-Joy Kiriba,
+* Wanjiru Kinyara,
+* Daniel Musili,
+* Alex Gathuri,
+* Raphael Mukui,
+* Joy Kiriba,
 
+# Contact information
+* Alex Gathuri: [Email](mailto:gathurialex4@gmail.com)
+* Daniel Musili: [Email](mailto:danielmusili72@gmail.com)
+* Wanjiru Kinyara: [Email](mailto:wanjirukinyara@gmail.com)
+* Joy Kiriba: [Email](mailto:joykiriba@gmail.com)
+* Raphael Blaize: [Email](mailto:blaize433@gmail.com)
 
 # Setup instructions
 
@@ -48,16 +54,6 @@ Joy Kiriba,
 * R
 * Tensor flow
 * Trello
-
-
-
-# Contact information
-* Alex Gathuri: [Email](mailto:gathurialex4@gmail.com)
-* Daniel Musili: [Email](mailto:danielmusili72@gmail.com)
-* Wanjiru Kinyara: [Email](mailto:wanjirukinyara@gmail.com)
-* Joy Kiriba: [Email](mailto:joykiriba@gmail.com)
-* Raphael Blaize: [Email](mailto:blaize433@gmail.com)
-
 
 
 

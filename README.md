@@ -99,14 +99,6 @@ Reference: [MIT License](https://opensource.org/licenses/MIT)
 * Tensor flow
 
 
-
-
-# Contact information
-* Alex Gathuri: [Email](mailto:gathurialex4@gmail.com)
-
-
-
-
 # License and Copyright information
 
 Copyright 2020 - Automotive Sales
